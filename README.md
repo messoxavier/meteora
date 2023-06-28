@@ -6,3 +6,7 @@ Projeto criando uma loja virtual utilizando Bootstrap5
 - HTML
 - CSS
 - Bootstrap5
+
+## Deploy on Vercel
+
+[Vercel](https://meteora-plum.vercel.app/)
