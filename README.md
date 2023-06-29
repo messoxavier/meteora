@@ -1,6 +1,8 @@
 # meteora
 
-Projeto criando uma loja virtual utilizando Bootstrap5
+Meteora é uma loja virtual ficticia criada apenas para o projeto.
+
+A ideia do projeto é criar uma loja virtual utilizando e trabalhando conceitos do Bootstrap5.
 
 ## Conteúdo do Projeto
 - HTML
